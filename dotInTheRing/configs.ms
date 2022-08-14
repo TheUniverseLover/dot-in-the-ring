@@ -1,0 +1,8 @@
+#EE00EE
+#AA00AA
+#00FF00
+#FFFFFF
+#EEAAAA
+#FF0000
+800
+impossible
